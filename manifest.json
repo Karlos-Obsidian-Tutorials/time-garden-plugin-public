@@ -1,7 +1,7 @@
 {
 	"id": "time-garden-plugin",
 	"name": "Time Garden Plugin",
-	"version": "1.1.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "The Official Plugin for the Time Garden Obsidian Vault! Deleting the plugin will break the vault.",
 	"author": "Karlos",
