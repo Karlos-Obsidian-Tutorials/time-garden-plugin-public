@@ -1,2 +1,7 @@
-# time-garden-plugin-public
-The official releases of the Time Garden Plugin for obsidian.md - the most advanced journaling template with local AI
+# Time Garden - Official Plugin
+
+DO NOT delete the Time Garden plugin - otherwise the AI features wont work!
+
+Unfortunately, it is the closed source part of the project to ensure ongoing support. 
+
+You can still view and modify all the modular templater files. 
